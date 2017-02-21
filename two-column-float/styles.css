@@ -1,0 +1,50 @@
+html {
+	height: 100%;
+	width: 100%;
+}
+
+body {
+	height: 100%;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	background-color: red;
+	height: 10%;
+	width: 100%;
+}
+
+main {
+	background-color: blue;
+	overflow: hidden;
+}
+
+section {
+	background-color: green;
+	height: 300px;
+	width: 75%;
+	float: left;
+}
+
+aside {
+	background-color: orange;
+	height: 200px;
+	width: 25%;
+	padding-left: 10px;
+	float: left;
+	box-sizing: border-box;
+}
+
+div {
+	background-color: yellow;
+	width: auto;
+	height: 100%;
+}
+
+footer {
+	background-color: black;
+	height: 10%;
+	width: 100%;
+}
