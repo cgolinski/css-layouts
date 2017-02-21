@@ -1,0 +1,45 @@
+html {
+	height: 100%;
+	width: 100%;
+}
+
+body {
+	height: 100%;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	background-color: red;
+	height: 10%;
+	width: 100%;
+}
+
+main {
+	background-color: blue;
+	width: 100%;
+	position: relative;
+}
+
+section {
+	background-color: green;
+	height: 400px;
+	width: auto;
+	margin-right: 300px;
+}
+
+aside {
+	background-color: yellow;
+	height: 300px;
+	width: 250px;
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+
+footer {
+	background-color: black;
+	height: 10%;
+	width: 100%;
+}
