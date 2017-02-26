@@ -1,0 +1,51 @@
+html {
+	height: 100%;
+	width: 100%;
+}
+
+body {
+	height: 100%;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	display: table;
+}
+
+header {
+	display: table-row;
+	background-color: red;
+	height: 10%;
+	width: 100%;
+}
+
+main {
+	display: table;
+	background-color: blue;
+	height: 100%;
+	width: 100%;
+}
+
+section {
+	display: table-cell;
+	background-color: green;
+	width: auto;
+}
+
+aside {
+	display: table-cell;
+	width: 260px;
+	padding-left: 10px;
+}
+
+.asideDiv {
+	background-color: yellow;
+	height: 100%;
+}
+
+footer {
+	display: table-row;
+	background-color: black;
+	height: 10%;
+	width: 100%;
+	color: white;
+}
