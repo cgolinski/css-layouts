@@ -1,0 +1,19 @@
+{
+  "name": "css-layouts",
+  "version": "1.0.0",
+  "description": "Reference implementation of numerous CSS layout techniques.",
+  "scripts": {
+    "start": "node start.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cgolinski/css-layouts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cgolinski/css-layouts/issues"
+  },
+  "homepage": "https://github.com/cgolinski/css-layouts#readme"
+}
